@@ -22,5 +22,4 @@ print("Python" in frase)
 nueva_frase= "Me gusta Python"
 print("Python" in nueva_frase)
 
-#
 
