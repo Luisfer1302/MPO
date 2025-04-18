@@ -24,7 +24,7 @@ print(False-False)
 print(True*10)
 print(False*50)
 
-#Ejercicio 3: Conversión entre Tipos Básicos
+#Ejercicio 3.py: Conversión entre Tipos Básicos
 #📌 Objetivo: Convertir entre tipos de datos (números, cadenas y booleanos).
 #Convierte un número en cadena y muéstralo.
 #Convierte una cadena numérica en un entero.

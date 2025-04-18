@@ -18,7 +18,7 @@ resultado = (cadena1 + cadena2 + str(num_int+num_float) +
              cadena3 + str(num_int/num_float))
 print(resultado)
 
-#Ejercicio 3: Manipulación avanzada de cadenas
+#Ejercicio 3.py: Manipulación avanzada de cadenas
     #Crea una cadena larga que contenga espacios en blanco al inicio, final, y en medio.
     #Realiza varias operaciones encadenadas como eliminar espacios extremos, convertir to_do a mayúsculas,
     #dividir la cadena en varias subcadenas usando un separador específico.

@@ -27,7 +27,7 @@ print(cadenita.lower())
 print(cadenita.upper())
 print(cadenita.count("a"))
 
-#Ejercicio 3: Operaciones matemáticas con números y booleanos
+#Ejercicio 3.py: Operaciones matemáticas con números y booleanos
 #📌 Objetivo: Realizar cálculos numéricos usando valores booleanos.
 #Define dos variables booleanas (verdadero, falso) con los valores True y False.
 #Realiza operaciones matemáticas con estos valores (+, *, -).

@@ -1,4 +1,4 @@
-#Ejercicio 3 - Pacman
+#Ejercicio 3.py - Pacman
 ##Escribe un programa que pida al usuario dos números enteros correspondientes a la casilla que está Pacman (1er número)
 ##y a la que está un fantasma (2o número),
 ##luego debe recibir un texto con el formato "normal" o "caramelo".
