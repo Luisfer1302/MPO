@@ -61,16 +61,16 @@ print("Es Python difícil?", es_python_dificil)
 
 
 # Comparaciones que devuelven valores booleanos
-mayor_que = 10 > 5  # True porque 10 es mayor que 5
-menor_que = 10 < 5  # False porque 10 no es menor que 5
+mayor_que = 10 > 5  # True porque 10 es mayor que holaa.txt
+menor_que = 10 < 5  # False porque 10 no es menor que holaa.txt
 igualdad = 10 == 10  # True porque ambos son iguales
-diferente = 10 != 5  # True porque 10 y 5 son distintos
+diferente = 10 != 5  # True porque 10 y holaa.txt son distintos
 
 
-print("10 es mayor que 5:", mayor_que)
-print("10 es menor que 5:", menor_que)
+print("10 es mayor que holaa.txt:", mayor_que)
+print("10 es menor que holaa.txt:", menor_que)
 print("10 es igual a 10:", igualdad)
-print("10 es distinto de 5:", diferente)
+print("10 es distinto de holaa.txt:", diferente)
 
 
 # Operaciones lógicas con booleanos

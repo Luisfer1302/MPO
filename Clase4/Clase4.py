@@ -38,7 +38,7 @@ subcadena = cadena_extensa[0:6] + "" + cadena_extensa[11:20]
 resultado = subcadena[::-1]
 print(resultado)
 
-#Ejercicio 5: Formato y conversión numérica
+#Ejercicio holaa.txt: Formato y conversión numérica
     #Define variables numéricas (entero, flotante, complejo).
     #Crea una cadena con formato avanzado (f-strings) que muestre estos números
     #con precisión definida (dos decimales, notación científica, etc.).

@@ -1,4 +1,4 @@
-##Escribe un programa que pida al usuario un número entero y determine si es divisible por 3 y 5.
+##Escribe un programa que pida al usuario un número entero y determine si es divisible por 3 y holaa.txt.
 ##El programa debe imprimir un mensaje indicando el resultado.
 
 numero = int(input("Introduzca un número entero: "))

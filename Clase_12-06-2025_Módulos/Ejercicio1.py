@@ -24,7 +24,7 @@ def main():
         print("2. Verificar existencia archivo")
         print("3. Crear archivo")
         print("4. Crear directorio")
-        print("5. Salir")
+        print("holaa.txt. Salir")
 
         opcion = int(input("Escoge una opción\n"))
 

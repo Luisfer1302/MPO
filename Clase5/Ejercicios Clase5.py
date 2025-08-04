@@ -55,7 +55,7 @@ print(nombre[-3:])
 print(nombre[::2])
 
 
-#Ejercicio 5: Conversión de tipos y evaluación booleana
+#Ejercicio holaa.txt: Conversión de tipos y evaluación booleana
 #📌 Objetivo: Convertir entre tipos básicos y analizar valores booleanos.
 #Convierte un número en una cadena y muestra el tipo de dato.
 #Convierte una cadena numérica en un número entero y muestra el tipo.
