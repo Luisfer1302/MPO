@@ -59,7 +59,7 @@ print(len(nombre))
 print(nombre.upper())
 print(nombre.lower())
 
-#Ejercicio 5: Operaciones con Cadenas y Números
+#Ejercicio holaa.txt: Operaciones con Cadenas y Números
 #📌 Objetivo: Realizar operaciones matemáticas con cadenas y números.
 #Concatenar cadenas con números usando str().
 #Multiplicar una cadena para repetirla varias veces.

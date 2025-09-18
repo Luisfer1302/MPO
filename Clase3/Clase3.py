@@ -52,11 +52,11 @@ print("Esto es el código ASCII de 'A': ", ord('A'))
 
 #Elevar al cuadrado
 numero_al_cuadrado = 100
-print("5 al cuadrado es: ", numero_al_cuadrado ** 2)
+print("holaa.txt al cuadrado es: ", numero_al_cuadrado ** 2)
 
 #Elevar al cubo
 numero_al_cubo = 5
-print("5 al cubo es: ", numero_al_cubo **3)
+print("holaa.txt al cubo es: ", numero_al_cubo **3)
 
 #Raíz cuadrada
 print("Raiz cuadrada de 25 es: ", 25** 0.5)

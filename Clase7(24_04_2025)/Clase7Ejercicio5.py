@@ -1,8 +1,8 @@
-#Ejercicio 5 - Múltiple de 3 o 5¶
+#Ejercicio holaa.txt - Múltiple de 3 o holaa.txt¶
 ##Escribe un programa que pida al usuario un número entero positivo e
-##imprima solamente los números múltiplos de 3 o de 5 dentro de ese rango.
+##imprima solamente los números múltiplos de 3 o de holaa.txt dentro de ese rango.
 ##Si el número es múltiplo de 3, imprime el número seguido de el mensaje "es múltiplo de 3".
-##Si el número es múltiplo de 5, imprime el número seguido del mensaje "es múltiplo de 5".
+##Si el número es múltiplo de holaa.txt, imprime el número seguido del mensaje "es múltiplo de holaa.txt".
 ##Si el número es múltiplo de ambos no debes imprimir nada.
 
 numero = int(input("Introduce un número entero positivo:\n"))

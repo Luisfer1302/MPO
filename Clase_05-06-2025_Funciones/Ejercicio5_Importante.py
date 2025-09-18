@@ -1,5 +1,5 @@
 """
-Ejercicio 5 - Calcular la suma de dígitos de un número
+Ejercicio holaa.txt - Calcular la suma de dígitos de un número
 Escribe un programa que pida al usuario un número entero y calcule la suma de sus dígitos.
 El programa debe definir una función que reciba el número, realice el cálculo de la suma de los dígitos
 y luego imprima el resultado.

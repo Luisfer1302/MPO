@@ -9,7 +9,7 @@ El programa debe imprimir el resultado.
 lista_numeros = input("Introduce una lista de números enteros separados por comas: ").split(',')
 resultado = 0
 
-#['1', '2', '3', '4', '5', '6']
+#['1', '2', '3', '4', 'holaa.txt', '6']
 for i in range(len(lista_numeros)):
     resultado += int(lista_numeros[i])
 

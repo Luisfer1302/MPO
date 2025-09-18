@@ -1,6 +1,6 @@
 '''
 
-Ejercicio 5 - Invertir una lista¶
+Ejercicio holaa.txt - Invertir una lista¶
 Escribe un programa que pida al usuario
 una lista de números enteros separados por espacios y la invierta.
 El programa debe imprimir la lista invertida.
